@@ -33,8 +33,8 @@ The **Generator** is based on the following **model**:
 
 ## Live Demo
 
-You can try the **generator** directly in your Web browser here:
+You can try the **Generator** directly in your Web browser here:
 
-[<img alt="Play Button" src="https://user-images.githubusercontent.com/85368212-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.png" />](https://replit.com/@somaxy/RandomSentenceGenerator)
+[<img alt="Try out" src="https://user-images.githubusercontent.com/85368212-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.png" />](https://replit.com/@somaxy/RandomSentenceGenerator)
 
 ![image](https://github.com/LDeathN/RandomSentencesGeneratorByLDeathN/assets/140381179/f687f91e-ef32-476e-aeeb-5530cf7cf844)
