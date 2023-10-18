@@ -27,6 +27,11 @@ The **Generator** is based on the following **model**:
 
 [Source Code](Practical_Project_Random_Sentences_Generator.py)
 
+![image](https://github.com/LDeathN/RandomSentencesGeneratorByLDeathN/assets/140381179/9e006341-bb50-4f41-9392-206c8a0463b4)
+
+![image](https://github.com/LDeathN/RandomSentencesGeneratorByLDeathN/assets/140381179/ea1450b4-8279-41f9-b5ee-d141a27350a5)
+
+
   
   
 
