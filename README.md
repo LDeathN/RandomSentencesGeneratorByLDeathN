@@ -31,7 +31,10 @@ The **Generator** is based on the following **model**:
 
 ![image](https://github.com/LDeathN/RandomSentencesGeneratorByLDeathN/assets/140381179/ea1450b4-8279-41f9-b5ee-d141a27350a5)
 
+## Live Demo
 
-  
-  
+You can try the **generator** directly in your Web browser here:
 
+[<img alt="Play Button" src="https://user-images.githubusercontent.com/85368212-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.png" />](https://replit.com/@somaxy/RandomSentenceGenerator)
+
+![image](https://github.com/LDeathN/RandomSentencesGeneratorByLDeathN/assets/140381179/f687f91e-ef32-476e-aeeb-5530cf7cf844)
