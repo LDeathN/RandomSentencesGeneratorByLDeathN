@@ -25,7 +25,7 @@ The **Generator** is based on the following **model**:
 
   * Details = {"near the riverbank", "at the top of a mountain", "inside a cozy cafe"...}
 
-[Source Code](Practical_Project_Rock–Paper–Scissors.py)
+[Source Code](Practical_Project_Random_Sentences_Generator.py)
 
   
   
